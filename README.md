@@ -35,7 +35,7 @@ Versión mínima de Android: 24.
 1. Instalar [Android Studio](https://developer.android.com/studio).
 2. Clonar el repositorio:
    ```
-   git clone https://github.com/jaquelinposadas/MovilidaAPP.git
+   git clone https://github.com/jaquelinposadas/MovilidAPP.git
    ```
 3. Abrir la carpeta del proyecto en Android Studio y esperar a que termine la sincronización de Gradle.
 4. Conectar un teléfono Android con la depuración por USB activada, o usar un emulador.
