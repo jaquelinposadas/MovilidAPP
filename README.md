@@ -58,3 +58,4 @@ app/src/main/
 - Los cambios nuevos se hacen en ramas (por ejemplo, `feature/rutas-cercanas`) y se integran a `main` con un *merge*.
 - Cada commit lleva un mensaje que explica qué cambió.
 - Revisado por Diego Ugarte Fragoso
+-Pantalla Rutas cercanas: muestra trayectos por zona de referencia, con ubicacion opcional.
